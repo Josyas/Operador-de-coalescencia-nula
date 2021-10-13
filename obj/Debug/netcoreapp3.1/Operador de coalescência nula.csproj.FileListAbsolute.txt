@@ -1,0 +1,13 @@
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.exe
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.deps.json
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.runtimeconfig.json
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.runtimeconfig.dev.json
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.dll
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.pdb
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.AssemblyInfo.cs
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.dll
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.pdb
+D:\VisualStudioProjetos\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.genruntimeconfig.cache
